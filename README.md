@@ -1,7 +1,7 @@
 # eive-java-101
 Name: Luan Henrique Victorino
 
----annotation of commands git---  
+--annotation of commands git--
 git init: create a new Git repository.  
 git checkout -b "{message}": create a branch.  
 git add {file}: add file.  
